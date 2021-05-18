@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileWrite\bin\Debug\netcoreapp3.1\FileWrite.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileWrite\bin\Debug\netcoreapp3.1\FileWrite.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileWrite\bin\Debug\netcoreapp3.1\FileWrite.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileWrite\bin\Debug\netcoreapp3.1\FileWrite.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileWrite\bin\Debug\netcoreapp3.1\FileWrite.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileWrite\bin\Debug\netcoreapp3.1\FileWrite.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileWrite\obj\Debug\netcoreapp3.1\FileWrite.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileWrite\obj\Debug\netcoreapp3.1\FileWrite.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileWrite\obj\Debug\netcoreapp3.1\FileWrite.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileWrite\obj\Debug\netcoreapp3.1\FileWrite.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileWrite\obj\Debug\netcoreapp3.1\FileWrite.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileWrite\obj\Debug\netcoreapp3.1\FileWrite.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileWrite\obj\Debug\netcoreapp3.1\FileWrite.genruntimeconfig.cache
